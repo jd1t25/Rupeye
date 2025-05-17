@@ -44,11 +44,9 @@ Use this notebook in **Google Colab** to:
 
 ## 📂 Outputs
 
-Typical outputs may include:
-
-- Dataset loading confirmations
-- Drive integration for checkpoint saving
-- Preprocessing logs or directory listings
+| Image 1 | Image 2 |
+|---------|---------|
+| ![1](output/1.jpg) | ![2](output/2.jpg) |
 
 ---
 
